@@ -2,6 +2,9 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  // 作業ファイルをsrcディレクトリにまとめる
+  srcDir: 'src/',
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'style_guide',
