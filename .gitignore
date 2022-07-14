@@ -88,3 +88,16 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Nuxt generate
+dist
+dist_*/
+
+# 以下追加したもの
+
+# @nuxtjs/sitemap
+sitemap.xml
+sitemap.xml.gz
+
+# package-lock.json
+package-lock.json
